@@ -59,7 +59,6 @@ The wider mechanical, electrical and renewable-energy system was developed colla
 ## Repository Contents
 
 - `main.tex` - primary LaTeX document
-- `references.bib` - bibliography database
 - `figures/` - diagrams, plots and design images
 - `tables/` - separate LaTeX table files
 - `EastGRIP_Final_Report.pdf` - compiled final report
